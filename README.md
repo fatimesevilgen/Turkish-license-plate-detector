@@ -1,4 +1,5 @@
-Turkish License Plate Detection 🚗📷
+##Turkish License Plate Detection 🚗📷
+
 This project was developed to automatically detect Turkish license plates using the YOLOv8 object detection model. The training process was carried out with the help of the Ultralytics library.
 
 Objective:

@@ -1,0 +1,7 @@
+path: C:\\Users\\Asus\\Desktop\\Turkish-license-plate-detector\\dataset
+train: images 
+val: images
+
+nc: 1
+names: 
+  0: plaka
